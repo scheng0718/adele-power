@@ -1,0 +1,12 @@
+body {
+  overflow-y: scroll;
+}
+
+.lyrics-box {
+  border: 1px solid #dadada;
+}
+
+/* 用cursor屬性來變更圖標 */
+.navbar-brand:hover {
+  cursor: pointer
+}
